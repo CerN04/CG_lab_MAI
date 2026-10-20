@@ -1,5 +1,10 @@
-# CG_lr1
-lab 1 CG MAI
+# MAI: Computer Graphics course
+Completed:
+1. lab 1 
+2. lab 2
+
+Expected:
+others...  (Data is being updated)
 
 ## Запуск
 Необходимы установленные C++, Vulcan SDK и CMake.
